@@ -5,5 +5,7 @@ scikit-learn==1.7.0
 numpy==1.26.4
 pandas==2.2.2
 
+fastapi-0.115.13
+
 # Optional: for fuzzy title matching
 rapidfuzz==3.13.0
