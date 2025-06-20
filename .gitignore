@@ -2,6 +2,6 @@ __pycache__/
 *.pyc
 .env
 *.ipynb_checkpoints/
-.cursor/
-.models/
-.data/
+cursor/
+models/
+data/
